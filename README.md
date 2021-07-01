@@ -1,8 +1,8 @@
-# ST3DNet
+# ST-3DNet
 
 Deep Spatial–Temporal 3D Convolutional Neural Networks for Trafﬁc Data Forecasting
 
-<img src="fig/ST3DNet architecture.png" alt="image-20200103164326338" style="zoom:50%;" />
+<img src="ST3DNet.png" alt="image-20210701111014324" style="zoom:50%;" />
 
 # Reference
 
